@@ -1,0 +1,17 @@
+func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:24.805: g_key_file_load_from_file: assertion 'file != NULL' failed
+
+** (nautilus:6964): WARNING **: 19:51:24.805: Could not establish a connection to Tracker: Failed to load SPARQL backend: Le fichier de clés n’a pas de groupe « DomainOntology »
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:24.952: g_queue_pop_head: assertion 'queue != NULL' failed
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:25.179: g_queue_pop_head: assertion 'queue != NULL' failed
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:29.395: g_queue_foreach: assertion 'queue != NULL' failed
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:29.395: g_queue_free: assertion 'queue != NULL' failed
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:29.398: g_queue_foreach: assertion 'queue != NULL' failed
+
+(nautilus:6964): GLib-CRITICAL **: 19:51:29.399: g_queue_free: assertion 'queue != NULL' failed
